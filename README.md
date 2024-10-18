@@ -6,9 +6,10 @@
 
 ## Team Members:
 
-1. Louis Miranda [@louismiranda](https://github.com/louismiranda)
-2. Bond Surber [@bondsurber](https://www.github.com/bondsurber)
-3. Sidd Kawatra [@siddkawatra](https://www.github.com/siddkawatra)
+
+1. Bond Surber [@bondsurber](https://www.github.com/bondsurber)
+2. Louis Miranda [@louismiranda](https://github.com/louismiranda)
+3. Sidd Kawatra [@siddKawatra](https://www.github.com/siddKawatra)
 
 ## Problem Description:
 
